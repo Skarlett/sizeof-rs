@@ -1,0 +1,9 @@
+[package]
+name = "sizeof-rs"
+version = "0.1.0"
+authors = ["Adam <360d@pm.me>"]
+edition = "2018"
+
+[dependencies]
+walkdir = "*"
+libmath = "0.2"
