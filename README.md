@@ -1,6 +1,11 @@
 # sizeof-rs
 sizeof command line utility written in rust
 
-#### compiling:
+#### Compiling:
 
      cd sizeof-rs && cargo build --release
+
+#### Usage:
+     
+     ./sizeof <file/dir>
+  
